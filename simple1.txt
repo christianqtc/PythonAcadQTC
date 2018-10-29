@@ -1,0 +1,9 @@
+practice assignment 1 for me to see where help christian be tutored from.
+I have answers to this assignment already and will grade after christian completes it. 
+
+
+Assignment is as follows.
+
+build a 52 card deck using dictionaries in python with lists data structures accessed by dictionary keys. 
+the lists should hold card values and keys should be appropriate for building a 52 card deck. 
+
